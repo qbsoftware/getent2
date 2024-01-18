@@ -1,3 +1,11 @@
+======
+ fork
+======
+
+This is fork of https://github.com/tehmaze/getent
+
+The goal is to make it installable from pypi.
+
 ========
  getent
 ========
